@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: Manifeste
 ---
 
 manifeste à venir...
